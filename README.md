@@ -36,7 +36,7 @@ about Areeba Amar (education, skills, certifications, academic projects) using h
 
 ## Deployment Link
 
-🔗 **[ADD YOUR STREAMLIT CLOUD LINK HERE AFTER DEPLOYING]**
+🔗 https://areebabot-euneds6uhzlxxeyug5qog9.streamlit.app/
 
 (See `DEPLOYMENT_STEPS.md` for exact step-by-step instructions to get this link.)
 
